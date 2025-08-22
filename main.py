@@ -83,7 +83,7 @@ def easy_mode(tries, user_attempts, game_round, random_number, high_score):
 
 def medium_mode(tries, user_attempts, game_round, random_number, high_score):
     clear()
-    print(random_number)
+    # print(random_number)
     print(f"Current round {game_round}")
     print("Guess the number from 1 to 100")
     start = time.time()
@@ -128,7 +128,7 @@ def medium_mode(tries, user_attempts, game_round, random_number, high_score):
 
 def hard_mode(tries, user_attempts, game_round, random_number, high_score):
     clear()
-    print(random_number)
+    # print(random_number)
     print(f"Current round {game_round}")
     print("Guess the number from 1 to 100")
     start = time.time()
