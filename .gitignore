@@ -1,1 +1,6 @@
-src/help.txt
+.venv/
+__pycache__/
+*.pyc
+.idea/
+.vscode/
+numbrguessr\src\help.txt

@@ -1,0 +1,8 @@
+## Compiling EXE
+pyinstaller --onefile --icon=numbrguessr/src/icon.ico --version-file=numbrguessr/src/file_info.txt numbrguessr/main.py
+pyinstaller --onefile --icon=numbrguessr/src/icon.ico --version-file=numbrguessr/src/file_info.txt --name numberguessr numbrguessr/main.py
+
+## Cheats
+gghh = "easy ++"
+yuyu = "medium ++"
+boom = "hard ++"
