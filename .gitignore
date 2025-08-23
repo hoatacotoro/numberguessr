@@ -3,4 +3,4 @@ __pycache__/
 *.pyc
 .idea/
 .vscode/
-numbrguessr\src\help.txt
+numbrguessr/src/help.txt
