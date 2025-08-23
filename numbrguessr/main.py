@@ -38,7 +38,7 @@ class score:
 game = score()
 
 def hint():
-    time.sleep(3)
+    time.sleep(10)
     # print("\nHey are you stupid?")
     # sys.stdout.write("\033[F")
     sys.stdout.write("\nHINT: You have to enter a number from 1 to 100 that have been randomly selected by computer,"
