@@ -2,7 +2,7 @@
 
 
 a = Analysis(
-    ['main.py'],
+    ['numbrguessr\\main.py'],
     pathex=[],
     binaries=[],
     datas=[],
@@ -35,6 +35,6 @@ exe = EXE(
     target_arch=None,
     codesign_identity=None,
     entitlements_file=None,
-    version='src\\file_info.txt',
-    icon=['src\\icon.ico'],
+    version='numbrguessr\\src\\file_info.txt',
+    icon=['numbrguessr\\src\\icon.ico'],
 )
